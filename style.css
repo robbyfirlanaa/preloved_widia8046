@@ -39,12 +39,17 @@ img {
   align-items: center;
 }
 
-.menu .brand #link1 {
+.menu .brand {
   text-decoration: none;
   color: #333;
   font-size: 26px;
 }
 
+.menu #link1{
+  text-decoration: none;
+  color: #333;
+  font-size:26px;
+}
 
 .menu ul {
   list-style: none;
